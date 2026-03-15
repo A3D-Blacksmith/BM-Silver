@@ -1,0 +1,10 @@
+{
+    "name":"Concrete Slab Wall 02",
+    "creator":"Polyhaven (Amal Kumar)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,weathered,wall,concrete",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/concrete_slab_wall_02", 
+    "powerplug":{"mode":"blend", "src":"concrete_slab_wall_02.blend"}
+}

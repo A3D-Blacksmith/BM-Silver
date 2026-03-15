@@ -1,0 +1,10 @@
+{
+    "name":"Stained Pine",
+    "creator":"Polyhaven (Dario Barresi and Jenelle van Heerden)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,pine,pinewood,coated,finish",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/stained_pine", 
+    "powerplug":{"mode":"blend", "src":"stained_pine.blend"}
+}

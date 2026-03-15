@@ -1,0 +1,10 @@
+{
+    "name":"Tarred Gravel",
+    "creator":"Polyhaven (Dimitrios Savva)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":" rough,weathered,uneven,old,worn",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/tarred_gravel", 
+    "powerplug":{"mode":"blend", "src":"tarred_gravel.blend"}
+}

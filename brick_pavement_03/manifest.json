@@ -1,0 +1,10 @@
+{
+    "name":" Brick Pavement 03",
+    "creator":"Polyhaven (Charlotte Baglioni)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,uneven,brick,bricks,pavement",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/brick_pavement_03", 
+    "powerplug":{"mode":"blend", "src":"brick_pavement_03.blend"}
+}
