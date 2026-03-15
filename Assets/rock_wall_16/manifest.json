@@ -1,0 +1,10 @@
+{
+    "name":"Rock Wall 16",
+    "creator":"Polyhaven (Amal Kumar)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,weathered,uneven,wall,rock wall",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/rock_wall_16", 
+    "powerplug":{"mode":"blend", "src":"rock_wall_16.blend"}
+}

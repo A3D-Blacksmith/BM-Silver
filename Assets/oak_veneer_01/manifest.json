@@ -1,0 +1,10 @@
+{
+    "name":"Oak Veneer 01",
+    "creator":"Polyhaven (Jenelle van Heerden)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"veneer,oak,grain,woodgrain",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/oak_veneer_01", 
+    "powerplug":{"mode":"blend", "src":"oak_veneer_01.blend"}
+}

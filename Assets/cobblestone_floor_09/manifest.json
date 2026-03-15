@@ -1,0 +1,10 @@
+{
+    "name":"Cobblestone Floor 09",
+    "creator":"Polyhaven (Charlotte Baglioni)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"weathered,uneven,floor,cobblestone",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/cobblestone_floor_09", 
+    "powerplug":{"mode":"blend", "src":"cobblestone_floor_09.blend"}
+}

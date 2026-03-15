@@ -1,0 +1,10 @@
+{
+    "name":"Gravel Floor 04",
+    "creator":"Polyhaven (Charlotte Baglioni)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,uneven,granular,gravel,gravelly,coarse,gritty,gravelly,ground,stones,rock,fragments,weathered,ground",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/gravel_floor_04", 
+    "powerplug":{"mode":"blend", "src":"gravel_floor_04.blend"}
+}

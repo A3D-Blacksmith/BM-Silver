@@ -1,0 +1,10 @@
+{
+    "name":"Rocky Terrain 02",
+    "creator":"Polyhaven (Amal Kumar)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rocky,terrain,uneven terrain,grass",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/rocky_terrain_02", 
+    "powerplug":{"mode":"blend", "src":"rocky_terrain_02.blend"}
+}
