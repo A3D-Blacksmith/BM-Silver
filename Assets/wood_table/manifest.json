@@ -1,0 +1,10 @@
+{
+    "name":"Wood Table",
+    "creator":"Polyhaven (Dimitrios Savva)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"pine,coated,finish,coated wood, wood",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/gravel_floor_04", 
+    "powerplug":{"mode":"blend", "src":"gravel_floor_04.blend"}
+}

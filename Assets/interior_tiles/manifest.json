@@ -1,0 +1,10 @@
+{
+    "name":"Interior Tiles",
+    "creator":"Polyhaven (Charlotte Baglioni)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"tiles,tiled,floor,indoor,flooring",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/interior_tiles", 
+    "powerplug":{"mode":"blend", "src":"interior_tiles.blend"}
+}

@@ -1,0 +1,10 @@
+{
+    "name":"Plank Flooring 04",
+    "creator":"Polyhaven (Dimitrios Savva)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"wooden,planksplank,flooring",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/plank_flooring_04", 
+    "powerplug":{"mode":"blend", "src":"plank_flooring_04.blend"}
+}

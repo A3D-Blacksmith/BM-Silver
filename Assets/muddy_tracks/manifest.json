@@ -1,0 +1,10 @@
+{
+    "name":"Muddy Tracks",
+    "creator":"Polyhaven (Amal Kumar)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"mud,muddy,surfacetracks,tire,tracks",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/muddy_tracks", 
+    "powerplug":{"mode":"blend", "src":"muddy_tracks.blend"}
+}

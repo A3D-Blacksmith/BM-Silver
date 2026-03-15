@@ -1,0 +1,10 @@
+{
+    "name":"Clean Asphalt",
+    "creator":"Polyhaven (Dimitrios Savva)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,asphalt,grey,gray,course,gritty",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/clean_asphalt", 
+    "powerplug":{"mode":"blend", "src":"clean_asphalt.blend"}
+}
